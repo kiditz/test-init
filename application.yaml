@@ -1,5 +1,5 @@
 spring:
   datasource:
-    password: mysecret
+    password: secret
     username: myuser
     url: jdbc:postgresql://localhost:5432/toelbox
