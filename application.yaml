@@ -3,3 +3,6 @@ spring:
     username: myuser
     password: secret
     url: jdbc:postgresql://localhost:5432/toelbox
+  threads:
+    virtual:
+      enabled: true
